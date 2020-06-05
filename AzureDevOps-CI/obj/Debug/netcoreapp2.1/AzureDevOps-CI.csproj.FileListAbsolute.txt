@@ -1,0 +1,14 @@
+C:\Users\makavitaged\Desktop\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Debug\netcoreapp2.1\AzureDevOps-CI.csprojAssemblyReference.cache
+C:\Users\makavitaged\Desktop\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Debug\netcoreapp2.1\AzureDevOps-CI.csproj.CoreCompileInputs.cache
+C:\Users\makavitaged\Desktop\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Debug\netcoreapp2.1\AzureDevOps-CI.RazorAssemblyInfo.cache
+C:\Users\makavitaged\Desktop\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Debug\netcoreapp2.1\AzureDevOps-CI.RazorAssemblyInfo.cs
+C:\Users\makavitaged\Desktop\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Debug\netcoreapp2.1\AzureDevOps-CI.AssemblyInfoInputs.cache
+C:\Users\makavitaged\Desktop\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Debug\netcoreapp2.1\AzureDevOps-CI.AssemblyInfo.cs
+C:\Users\makavitaged\Desktop\01_02\AzureDevOps-CI\AzureDevOps-CI\bin\Debug\netcoreapp2.1\AzureDevOps-CI.deps.json
+C:\Users\makavitaged\Desktop\01_02\AzureDevOps-CI\AzureDevOps-CI\bin\Debug\netcoreapp2.1\AzureDevOps-CI.runtimeconfig.json
+C:\Users\makavitaged\Desktop\01_02\AzureDevOps-CI\AzureDevOps-CI\bin\Debug\netcoreapp2.1\AzureDevOps-CI.runtimeconfig.dev.json
+C:\Users\makavitaged\Desktop\01_02\AzureDevOps-CI\AzureDevOps-CI\bin\Debug\netcoreapp2.1\AzureDevOps-CI.dll
+C:\Users\makavitaged\Desktop\01_02\AzureDevOps-CI\AzureDevOps-CI\bin\Debug\netcoreapp2.1\AzureDevOps-CI.pdb
+C:\Users\makavitaged\Desktop\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Debug\netcoreapp2.1\AzureDevOps-CI.RazorTargetAssemblyInfo.cache
+C:\Users\makavitaged\Desktop\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Debug\netcoreapp2.1\AzureDevOps-CI.dll
+C:\Users\makavitaged\Desktop\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Debug\netcoreapp2.1\AzureDevOps-CI.pdb
